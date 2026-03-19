@@ -1,8 +1,8 @@
 # Open Source Software Audit of VLC with Shell Scripting
 
 ## Student Details
-- **Name:** Your Name
-- **Roll Number:** Your Roll Number
+- **Name:** Mayank Banwale
+- **Roll Number:** 24Bai10845
 - **Course:** Open Source Software
 - **Chosen Software:** VLC Media Player
 
